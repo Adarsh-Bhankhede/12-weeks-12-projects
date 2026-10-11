@@ -24,7 +24,7 @@ The goal is to complete **at least one project every week for 12 weeks**. If I c
 | Week        | Project                     | Focus                  | Status      |
 | ----------- | --------------------------- | ---------------------- | ----------- |
 | **Week 01** | 🎲 Dice Rolling Game        | Python Basics          | ✅ Completed |
-| **Week 02** | 🎯 Number Guessing Game     | Logic & Loops          | ⏳ Upcoming  |
+| **Week 02** | 🎯 Number Guessing Game     | Logic & Loops          | ✅ Completed  |
 | **Week 03** | 📝 To-Do List               | Lists & CRUD           | ⏳ Upcoming  |
 | **Week 04** | 🔐 Password Generator       | Strings & Functions    | ⏳ Upcoming  |
 | **Week 05** | 💰 Expense Tracker          | File Handling          | ⏳ Upcoming  |
@@ -46,30 +46,28 @@ The goal is to complete **at least one project every week for 12 weeks**. If I c
 
 A simple Python program that simulates rolling two dice. The program generates random numbers between **1 and 6**, displays the results, and allows the user to roll again.
 
-**Concepts learned:**
+🔗 **Project Repository:** [01-dice-rolling-game](https://github.com/Adarsh-Bhankhede/01-dice-rolling-game.git)
 
-* `random` module
-* `random.randint()`
-* `while` loop
-* `if-elif-else`
-* User input
-* Variables
-* Counter
+---
 
-🔗 **Project Repository:** [01-dice-rolling-game](../01-dice-rolling-game)
+### Week 02 — 🎯 Number Guessing Game
+
+A simple Python program in which the computer randomly selects a number within a specified range, and the player tries to guess it.
+
+🔗 **Project Repository:** [02-number-guessing-game](https://github.com/Adarsh-Bhankhede/02-number-guessing-game.git)
 
 ---
 
 ## 📈 Progress
 
 **Minimum Goal:** 12 Projects
-**Completed:** 1 / 12
-**Current Week:** Week 01
-**Status:** ✅ Week 01 Completed
+**Completed:** 2 / 12
+**Current Week:** Week 02
+**Status:** ✅ Week 02 Completed
 
 ```text
 Week 01  ████████████  ✅ Completed
-Week 02  ░░░░░░░░░░░░  ⏳ Upcoming
+Week 02  ████████████  ✅ Completed
 Week 03  ░░░░░░░░░░░░  ⏳ Upcoming
 Week 04  ░░░░░░░░░░░░  ⏳ Upcoming
 Week 05  ░░░░░░░░░░░░  ⏳ Upcoming
@@ -126,8 +124,3 @@ Throughout these 12 weeks, I want to improve my knowledge of:
 
 > **One week. At least one project. Continuous improvement.**
 
-### Week 01 ✅
-
-**First project completed! 🎉**
-
-One step completed, eleven more weeks to go. 🚀
