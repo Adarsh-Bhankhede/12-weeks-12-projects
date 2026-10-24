@@ -23,9 +23,9 @@ The goal is to complete **at least one project every week for 12 weeks**. If I c
 
 | Week        | Project                     | Focus                  | Status      |
 | ----------- | --------------------------- | ---------------------- | ----------- |
-| **Week 01** | 🎲 Dice Rolling Game        | Python Basics          | ✅ Completed |
+| **Week 01** | 🎲 Dice Rolling Game        | Python Basics          | ✅ Completed  |
 | **Week 02** | 🎯 Number Guessing Game     | Logic & Loops          | ✅ Completed  |
-| **Week 03** | 📝 To-Do List               | Lists & CRUD           | ⏳ Upcoming  |
+| **Week 03** | ✊ Rock Paper Scissors Game | Loops & random lib     | ✅ Completed  |
 | **Week 04** | 🔐 Password Generator       | Strings & Functions    | ⏳ Upcoming  |
 | **Week 05** | 💰 Expense Tracker          | File Handling          | ⏳ Upcoming  |
 | **Week 06** | 📇 Contact Book             | Data Management        | ⏳ Upcoming  |
@@ -58,17 +58,25 @@ A simple Python program in which the computer randomly selects a number within a
 
 ---
 
+### Week 03 — ✊ Rock Paper Scissors Game
+
+A simple Python program to simulate the classic **Rock-Paper-Scissors** game.
+
+🔗 **Project Repository:** [03-rock-paper-scissors-game](https://github.com/Adarsh-Bhankhede/03-rock-paper-scissors-game.git)
+
+---
+
 ## 📈 Progress
 
 **Minimum Goal:** 12 Projects
-**Completed:** 2 / 12
-**Current Week:** Week 02
-**Status:** ✅ Week 02 Completed
+**Completed:** 3 / 12
+**Current Week:** Week 03
+**Status:** ✅ Week 03 Completed
 
 ```text
 Week 01  ████████████  ✅ Completed
 Week 02  ████████████  ✅ Completed
-Week 03  ░░░░░░░░░░░░  ⏳ Upcoming
+Week 03  ████████████  ✅ Completed
 Week 04  ░░░░░░░░░░░░  ⏳ Upcoming
 Week 05  ░░░░░░░░░░░░  ⏳ Upcoming
 Week 06  ░░░░░░░░░░░░  ⏳ Upcoming
