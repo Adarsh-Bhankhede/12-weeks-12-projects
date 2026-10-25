@@ -26,7 +26,7 @@ The goal is to complete **at least one project every week for 12 weeks**. If I c
 | **Week 01** | 🎲 Dice Rolling Game        | Python Basics          | ✅ Completed  |
 | **Week 02** | 🎯 Number Guessing Game     | Logic & Loops          | ✅ Completed  |
 | **Week 03** | ✊ Rock Paper Scissors Game | Loops & random lib     | ✅ Completed  |
-| **Week 04** | 🔐 Password Generator       | Strings & Functions    | ⏳ Upcoming  |
+| **Week 04** | 🏗️ Hangman Game             | Functions & data structure    | ✅ Completed    |
 | **Week 05** | 💰 Expense Tracker          | File Handling          | ⏳ Upcoming  |
 | **Week 06** | 📇 Contact Book             | Data Management        | ⏳ Upcoming  |
 | **Week 07** | 📰 News App                 | APIs & JSON            | ⏳ Upcoming  |
@@ -66,18 +66,27 @@ A simple Python program to simulate the classic **Rock-Paper-Scissors** game.
 
 ---
 
+### Week 04 — 🏗️ Hangman Game
+
+A simple Hangman Game built using Python. The computer randomly selects a secret word, and the player tries to guess it one letter at a time before running out of lives.
+
+🔗 **Project Repository:** [04-hangman-game](https://github.com/Adarsh-Bhankhede/04-hangman-game.git)
+
+---
+
+
 ## 📈 Progress
 
 **Minimum Goal:** 12 Projects
-**Completed:** 3 / 12
-**Current Week:** Week 03
-**Status:** ✅ Week 03 Completed
+**Completed:** 4 / 12
+**Current Week:** Week 04
+**Status:** ✅ Week 04 Completed
 
 ```text
 Week 01  ████████████  ✅ Completed
 Week 02  ████████████  ✅ Completed
 Week 03  ████████████  ✅ Completed
-Week 04  ░░░░░░░░░░░░  ⏳ Upcoming
+Week 04  ████████████  ✅ Completed  
 Week 05  ░░░░░░░░░░░░  ⏳ Upcoming
 Week 06  ░░░░░░░░░░░░  ⏳ Upcoming
 Week 07  ░░░░░░░░░░░░  ⏳ Upcoming
